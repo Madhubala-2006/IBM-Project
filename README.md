@@ -57,13 +57,8 @@ The goal is to bridge the gap between **raw medical data** and **accessible, per
 - Hugging Face account  
 - Basic knowledge of Python & Gradio  
 
-### Installation  
-1. Open **Google Colab** and create a new notebook.  
-2. Install dependencies:  
-   ```bash
-   !pip install transformers torch gradio -q
-   ```
-   ### Installation
+
+### Installation
 1. Open **Google Colab** and create a new notebook.  
 2. Install dependencies:
    
